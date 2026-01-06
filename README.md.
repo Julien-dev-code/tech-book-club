@@ -1,0 +1,69 @@
+# Tech Book Club
+
+Landing page réalisée dans le cadre d'un projet Frontend Mentor.  
+**Responsive design, HTML & CSS pur, pratique Flexbox et Grid.**
+
+---
+
+## Contexte / Context
+
+**FR :**  
+Je suis un développeur junior en formation et ceci est **mon premier vrai projet**.  
+J’ai créé cette page pour pratiquer le HTML, le CSS et le responsive design.
+
+**EN :**  
+I am a junior developer in training, and this is **my first real project**.  
+I created this page to practice HTML, CSS, and responsive design.
+
+---
+
+## Objectifs d’apprentissage / Learning Goals
+
+**FR :**
+- Expérimenter le responsive design et l’utilisation de Flexbox et Grid.
+- Travailler sur l’intégration d’images, de polices et de dégradés.
+- Créer une page fonctionnelle et esthétique.
+
+**EN :**
+- Experiment with responsive design using Flexbox and Grid.
+- Work on integrating images, fonts, and gradients.
+- Build a functional and visually appealing page.
+
+---
+
+## Description / Description
+
+**FR :**  
+Page responsive avec un design moderne. La landing page comprend :  
+- Section Hero avec image et dégradé.  
+- Sections “Read Together”, “Book Club”, “Journey”, “Membership” et “Testimonials”.  
+- Boutons interactifs et responsive.  
+
+**EN :**  
+Responsive landing page with a modern design. The page includes:  
+- Hero section with image and gradient.  
+- Sections “Read Together”, “Book Club”, “Journey”, “Membership” and “Testimonials”.  
+- Interactive and responsive buttons.
+
+---
+
+## Technologies utilisées / Technologies Used
+
+**FR :**  
+- HTML5  
+- CSS3 (Flexbox, Grid, Media Queries)  
+- Google Fonts  
+
+**EN :**  
+- HTML5  
+- CSS3 (Flexbox, Grid, Media Queries)  
+- Google Fonts  
+
+---
+
+## Installation / How to run
+
+**FR :**  
+1. Cloner le dépôt :  
+```bash
+git clone <URL_DE_TON_REPO>
