@@ -251,7 +251,8 @@ body {
 .membership ul li {
     display: flex;
     align-items: center;
-    gap: 12px; 
+    gap: 10px;
+    margin-top: 20px; 
 }
 .cards {
     border: 1px solid #E6E1DF;
