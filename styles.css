@@ -645,11 +645,33 @@ body {
     .arrow {
       display: none;
     }
-  
-    .testimonial {
-      justify-content: flex-start;
-      padding-left: 0;
+    .star {
+        align-items: flex-start;
+        text-align: left;
     }
+  
+    
+    .testimonial {
+          align-items: flex-start;
+          text-align: left;
+          padding: 60px 16px 0; 
+        }
+      
+    .testimonial blockquote {
+        padding-bottom: 20px;
+        padding-top: 20px;
+        margin: 0;
+        align-items: flex-start;
+        text-align: left;
+        font-size: 22px; 
+        max-width: 100%;
+        }
+      
+    .testimonial span {
+        text-align: left;
+        font-size: 16px;
+        }
+      
     .footer-wrapper {
         flex-direction: column; 
         justify-content: center;
@@ -663,5 +685,5 @@ body {
         gap: 20px;
     }
 }
-  
+
   
